@@ -33,3 +33,9 @@ yarn-error.log*
 
 # media / screen recordings
 *.mp4
+
+# agent & ide workspace config
+/.agent/
+/.agents/
+/.gemini/
+/.gsd/
